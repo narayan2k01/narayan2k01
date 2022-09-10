@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @narayan2k01
 - 👀 I’m interested in Website and Software Development
-- 🌱 I’m currently learning Angular.js and Kubernetes.
-- 💞️ I’m looking to collaborate on Open-source Projects
+- 🌱 I’m currently learning Angular.js and JavaScript 
 - 📫 Contact at narayan2k01@gmail.com
 
 <!---
-PratikshitGuptaI/PratikshitGuptaI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Narayan sharma/narayan2k01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1>
@@ -15,7 +14,7 @@ Languages and Tools:
 Programming Languages:
 </h2>
 <div>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>
  <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
 </div>
