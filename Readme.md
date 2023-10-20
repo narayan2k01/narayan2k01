@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narayan2k01
 - 👀 I’m interested in Website and Software Development
-- 🌱 I’m currently learning Angular.js and JavaScript 
+- 🌱 I’m currently learning React.js 
 - 📫 Contact at narayan2k01@gmail.com
 
 <!---
