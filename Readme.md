@@ -34,15 +34,10 @@ Backend Development:
 <h2>
 Database:
 </h2>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100%" height="40" style="max-width: 100%;"> </a>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="100%" height="40" style="max-width: 100%;"> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
  <h2>
 Framework 
 </h2>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*EVqCcmCPgpNKxU1wzcTHgw.png" alt="reactjs" width="100%" height="40" style="max-width: 100%;"> </a>
-<img src="https://hossaini.gallerycdn.vsassets.io/extensions/hossaini/bootstrap-intellisense/1.1.9/1699026271490/Microsoft.VisualStudio.Services.Icons.Default" alt="Bootstrap" width="100%" height="40" style="max-width: 100%;"> </a>
-<style>
- img{
-  display:inline;
-  }
-</style>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*EVqCcmCPgpNKxU1wzcTHgw.png" alt="reactjs" width="40" height="40" style="max-width: 100%;"> </a>
+<img src="https://hossaini.gallerycdn.vsassets.io/extensions/hossaini/bootstrap-intellisense/1.1.9/1699026271490/Microsoft.VisualStudio.Services.Icons.Default" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
