@@ -4,7 +4,7 @@
 - 📫 Contact at narayan2k01@gmail.com
 
 <div style="background: #fff; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-        <h1 style="color: #333;">Kartik Arora's Personal Information</h1>
+        <h1 style="color: #333;">Narayan Sharma's Personal Information</h1>
 
  <h2 style="color: #333;">Summary:</h2>
         <p>Web developer with expertise in HTML, CSS, JavaScript, and Bootstrap. Proven track record in successful project delivery and effective communication. Actively engaged in continuous learning, applying new skills to personal projects, demonstrating adaptability and a commitment to growth. Committed to ongoing professional development, staying current with the latest frontend trends.</p>
